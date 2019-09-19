@@ -1,0 +1,11 @@
+h1 { color: blue; background-color: red; font: italic }
+
+body { background-color : green}
+
+li { background-color : orange}
+
+#make-me-blue { background-color: blue;}
+
+.make-me-white {background-color: white;}
+
+img { width : 50%; height : 60px }
